@@ -1,7 +1,7 @@
 ---
 title: about
 name: "Piotr Raducha"
-designation: "Junior Front-End Dev"
+designation: "Junior Full Stack Dev"
 location: Warsaw
 pronouns: "he/him"
 website: "http://tafutza.hn/kos"
