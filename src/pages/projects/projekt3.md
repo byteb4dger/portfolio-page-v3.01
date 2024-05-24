@@ -1,10 +1,21 @@
 ---
-title: Blog App
-url: https://byte-b4dger-blog-159a.vercel.app/
-tags: ["Javascript", "Astro.js", "Tailwind"]
+title: My wall
+url: https://mywall.onrender.com/
+tags: ["Python", "Django", "Tailwind", "HTMX", "PostgreSQL"]
 date: 2024
 ---
 
-{Skill Issue}
+# Mywall: Your Ultimate Photo Sharing Hub
 
-Explore my minimalist blog dedicated to programming insights, tutorials, tips, and much more. Dive into my thoughts, tutorials, advice, and beyond. Join me on the journey of coding exploration!
+Welcome to Mywall, the web application designed to enhance your photo sharing experience. With Mywall, you can effortlessly curate, share, and interact with stunning images from Flickr and beyond.
+
+## Key Features:
+
+- **Seamless Integration with Flickr:** Import and display your favorite photos from Flickr directly on your Mywall profile.
+- **Data Scraping:** Extract valuable information from your photos to enrich your posts and enhance your sharing experience.
+- **Social Sharing:** Share your images with a vibrant community of Mywall users.
+- **Public Posts:** Choose to make your posts public, allowing everyone to appreciate your photographic talents.
+- **Engage with the Community:** Like and comment on photos shared by others to express your appreciation and connect with fellow photo enthusiasts.
+- **Real-Time Conversations:** Chat with other users in real-time, making it easy to discuss photography tips, organize photo walks, or simply connect over shared interests.
+
+Join Mywall today and transform the way you share and interact with photos. It's not just a platform; it's a community built around a passion for photography.
