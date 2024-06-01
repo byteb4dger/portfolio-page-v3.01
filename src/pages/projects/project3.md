@@ -1,10 +1,10 @@
 ---
-title: Chat App
-url: https://byte-b4dger-chat-app.vercel.app/
-tags: ["Javascript", "React", "Vite", "CSS", "Firebase"]
-date: 03.2024
+title: Chat AI
+url: https://ai-chat-three-lovat.vercel.app/
+tags: ["Typescript", "Astro.js", "Tailwind", "OpenAI"]
+date: 04.2024
 ---
 
-Chat App
+# Chat AI
 
-Experience our chat application designed for seamless communication. Enjoy features such as login, registration, messaging, friend addition, and blocking. Join the conversation!
+A simple chat built on the OpenAI API.

@@ -1,21 +1,29 @@
 ---
-title: My wall
-url: https://mywall.onrender.com/
-tags: ["Python", "Django", "Tailwind", "HTMX", "PostgreSQL"]
-date: 05.2024
+title: Ecommerce
+url: https://ecommerce-test-murex.vercel.app/
+tags: ["Typescript", "React", "Next.js", "Tailwind", "Wix"]
+date: 06.2024
 ---
 
-# Mywall: Your Ultimate Photo Sharing Hub
+# E-commerce Shop Web Application
 
-Welcome to Mywall, the web application designed to enhance your photo sharing experience. With Mywall, you can effortlessly curate, share, and interact with stunning images from Flickr and beyond.
+## Overview
+Our E-commerce Shop Web Application offers an intuitive online shopping experience. Users can browse products, apply filters, and add items to their cart easily.
 
-## Key Features:
+## Features
 
-- **Seamless Integration with Flickr:** Import and display your favorite photos from Flickr directly on your Mywall profile.
-- **Data Scraping:** Extract valuable information from your photos to enrich your posts and enhance your sharing experience.
-- **Social Sharing:** Share your images with a vibrant community of Mywall users.
-- **Public Posts:** Choose to make your posts public, allowing everyone to appreciate your photographic talents.
-- **Engage with the Community:** Like and comment on photos shared by others to express your appreciation and connect with fellow photo enthusiasts.
-- **Real-Time Conversations:** Chat with other users in real-time, making it easy to discuss photography tips, organize photo walks, or simply connect over shared interests.
+### Product Browsing
+- **Diverse Products:** Browse a wide range of products.
+- **Product Details:** View descriptions, images, prices, and reviews.
 
+### Filtering Options
+- **Category Filters:** Select specific product categories.
+- **Price Filters:** Set a price range.
+- **Brand Filters:** Choose products by brand.
+- **Rating Filters:** Filter by customer ratings.
 
+### Shopping Cart
+- **Add to Cart:** Add products with one click.
+- **Manage Cart:** View, edit, and remove items.
+- **Quantity Adjustment:** Change item quantities.
+- **Total Cost:** Auto-calculate the total price.
