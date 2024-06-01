@@ -1,10 +1,10 @@
 ---
-title: Chat AI
-url: https://ai-chat-three-lovat.vercel.app/
-tags: ["Typescript", "Astro.js", "Tailwind", "OpenAI"]
-date: 2024
+title: Dozens Donuts
+url: https://byte-b4dger-dozun-donuts.vercel.app/
+tags: ["Typescript", "React", "Next.js", "SCSS"]
+date: 02.2024
 ---
 
-Chat AI
+Welcome to Dozens Donuts
 
-A simple chat built on the OpenAI API.
+Indulge in our delectable donuts, from classic to gourmet flavors. Easily customize your order and calculate the total cost with our user-friendly system. Treat yourself today!

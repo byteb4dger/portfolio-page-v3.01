@@ -2,7 +2,7 @@
 title: My wall
 url: https://mywall.onrender.com/
 tags: ["Python", "Django", "Tailwind", "HTMX", "PostgreSQL"]
-date: 2024
+date: 05.2024
 ---
 
 # Mywall: Your Ultimate Photo Sharing Hub
@@ -18,4 +18,4 @@ Welcome to Mywall, the web application designed to enhance your photo sharing ex
 - **Engage with the Community:** Like and comment on photos shared by others to express your appreciation and connect with fellow photo enthusiasts.
 - **Real-Time Conversations:** Chat with other users in real-time, making it easy to discuss photography tips, organize photo walks, or simply connect over shared interests.
 
-Join Mywall today and transform the way you share and interact with photos. It's not just a platform; it's a community built around a passion for photography.
+

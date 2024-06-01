@@ -1,10 +1,10 @@
 ---
-title: Dozens Donuts
-url: https://byte-b4dger-dozun-donuts.vercel.app/
-tags: ["Typescript", "React", "Next.js", "SCSS"]
-date: 2024
+title: Chat App
+url: https://byte-b4dger-chat-app.vercel.app/
+tags: ["Javascript", "React", "Vite", "CSS", "Firebase"]
+date: 03.2024
 ---
 
-Welcome to Dozens Donuts
+Chat App
 
-Indulge in our delectable donuts, from classic to gourmet flavors. Easily customize your order and calculate the total cost with our user-friendly system. Treat yourself today!
+Experience our chat application designed for seamless communication. Enjoy features such as login, registration, messaging, friend addition, and blocking. Join the conversation!
